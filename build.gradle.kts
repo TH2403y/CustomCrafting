@@ -26,7 +26,6 @@ plugins {
     `java-library`
     `maven-publish`
     id("com.github.johnrengelman.shadow") version "8.1.1"
-    id("com.wolfyscript.devtools.docker.run") version ("2.0-SNAPSHOT")
     id("com.jfrog.artifactory") version "5.2.0"
 }
 
